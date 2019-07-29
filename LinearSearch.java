@@ -1,4 +1,4 @@
-package shivani;
+package line_search;
 import java.util.Scanner;
 
 public class LinearSearch {
