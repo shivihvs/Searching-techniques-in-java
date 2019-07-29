@@ -1,4 +1,4 @@
-package shivani;
+package bin_search;
 import java.util.Scanner;
 
 public class BinarySearch {
